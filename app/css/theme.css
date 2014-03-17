@@ -1,0 +1,38 @@
+/*
+ * Core of the application.
+ * 
+ * - default: Variables with default values (e.g. font-family, padding, margin)
+ * - app: Styling for default elements (e.g. body, a, img) and resets
+ * - typography: Styling for default typo elements (e.g. h1, h2, h3, p)
+ */
+/*
+ *
+ * Default variables for the whole application.
+ *
+ */
+/* line 1, ../../src/scss/core/_app.scss */
+body {
+  font: 1em "Ubuntu", sans-serif;
+}
+
+/*
+ * 
+ * Heading
+ *
+ */
+/*
+ * 
+ * Paragraph
+ *
+ */
+/*
+ * Modules are small parts and can be put together to build the single
+ * views of the application.
+ * 
+ * - button: Different types of buttons
+ */
+/*
+ * External files from third parties, which you maybe downloaded from the internet. 
+ * 
+ * - bullgrid: Grid system - https://github.com/synoa/bullgrid
+ */

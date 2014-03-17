@@ -1,0 +1,30 @@
+{
+  "name": "dynamyt_wordpress",
+  "title": "dynamyt_wordpress",
+  "description": "Basic theme with Grunt support and no extras.",
+  "url": "http://dynam.yt/",
+  "author": "Synoa GmbH",
+  "copyright": "2014",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/synoa/dynamyt_wordpress-.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-watch": "~0.4.4",
+    "matchdep": "~0.1.2",
+    "grunt-sftp-deploy": "~0.0.9",
+    "grunt-concurrent": "~0.4.1",
+    "grunt-ftp-push": "~0.1.2",
+    "grunt-ftpush": "~0.3.3",
+    "grunt-hashres": "~0.3.4",
+    "grunt-replace": "~0.5.1",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}
