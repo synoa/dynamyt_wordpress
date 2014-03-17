@@ -48,8 +48,8 @@ if (!function_exists('dynamyt_wordpress_setup')) {
 
 		// This theme uses wp_nav_menu() in two locations.
 		register_nav_menus( array(
-			'primary'   => __( 'Top primary menu', 'dynamyt_wordpress' ),
-			'secondary' => __( 'Secondary menu in left sidebar', 'dynamyt_wordpress' ),
+			'primary'   => __( 'Top menu', 'dynamyt_wordpress' ),
+			'secondary' => __( 'Sidebar menu', 'dynamyt_wordpress' ),
 		));
 
 		/*
